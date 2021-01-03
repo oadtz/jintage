@@ -59,6 +59,9 @@ export default function Home() {
           Powered by{' '}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
+        <button className="btn btn-green">
+          OK
+        </button>
       </footer>
     </div>
   )
